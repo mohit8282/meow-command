@@ -43,4 +43,4 @@ echo "Current Directory: $(pwd) 📁"
 
 echo " ✨ this simple command shows current directory, username & OS ✨"
 echo " written by monu ツ"
-echo " just say meow! "
+echo " just say meow! 🐱"
